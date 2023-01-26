@@ -1,0 +1,23 @@
+
+h4 {
+    color: rgb(64, 53, 95); 
+    font-size: 20px;
+    text-align: center;
+}
+h2 {
+    color: rgb(255, 126, 12); 
+    font-size: 50px;
+    text-align: center;
+   
+}
+h5{
+    color: rgb(64, 53, 95);
+    font-size: 50px;
+    text-align: center;
+}
+p {
+    color: aquamarine;
+}
+*{
+    background-color: brown;
+}
